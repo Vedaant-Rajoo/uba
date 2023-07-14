@@ -21,7 +21,9 @@
 *.a
 *.la
 *.lo
-
+# Md Files
+*.md
+!README.md
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
